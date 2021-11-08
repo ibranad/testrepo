@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ibranad
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on a reduced version of Conway's Game of Life
